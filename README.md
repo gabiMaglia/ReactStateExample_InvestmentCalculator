@@ -35,4 +35,6 @@ The primary goal is to **practice state management using `useState`**, **data fl
 - Validación de datos ingresados
 
 ---
-
+```bash
+npm install
+npm run dev
